@@ -2,3 +2,5 @@ Bu bir test dosyasıdır.
 
 Main branch değişikliği eklendi.
 CONFLICT değişikliği eklendi.
+
+PR değişikliği eklendi.
